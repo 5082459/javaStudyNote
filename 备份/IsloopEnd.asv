@@ -1,0 +1,7 @@
+function result = IsloopEnd(Ci)
+[M,~] = size(Ci);
+if M == {}
+    result = 0;
+else
+    
+    
