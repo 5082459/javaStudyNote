@@ -1,8 +1,0 @@
-% ax+by+cz+d=0
-% y=linspace(-4,4,40);
-x = -100:0.25:100;
-y = x;
-[Y,Z] = meshgrid(x,z);
-N=0.5*Y+0.8*Z;
-mesh(N,Y,Z) 
-surf(N,Y,Z)
