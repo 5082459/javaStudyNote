@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("======================");
-        int[] array = {1,2,3,6,5,4,2,1,3,2,11,1,1};
+        int[] array = {1,2,3,6,5,4,2,50,1,3,2,11,1,1};
         // sort(a);
         // selectionSort(array);
         insertSort(array);
